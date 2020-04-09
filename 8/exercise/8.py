@@ -1,0 +1,5 @@
+num = int(input("정수입력 -->"))
+print("10진수:{0:d}".format(num))
+print("2진수:{0:b}".format(num))
+print("8진수:{0:o}".format(num))
+print("16진수:{0:x}".format(num))

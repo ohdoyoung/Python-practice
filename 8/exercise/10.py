@@ -1,0 +1,6 @@
+num = float(input("정수입력: "))
+num2 = float(input("정수입력: "))
+print(num, "+", num2, "=", num + num2)
+print(num, "-", num2, "=", num - num2)
+print(num, "*", num2, "=", num * num2)
+print(num, "/", num2, "=", num / num2)
